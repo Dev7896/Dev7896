@@ -27,7 +27,7 @@ I'm a passionate Full Stack Developer who thrives on exploring new technologies 
 
 ## 🌟 Projects
 
-- **Weather App**: A user-friendly application that provides real-time weather updates for any location. [GitHub Repository](https://github.com/Dev7896/weather-app)
+- **Weather App**: A user-friendly application that provides real-time weather updates for any location. [GitHub Repository](https://github.com/Dev7896/weatherapp)
 
 - **Wealth Partner**: Currently developing a comprehensive financial management platform to help users manage and grow their wealth effectively.
 

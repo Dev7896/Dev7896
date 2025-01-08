@@ -41,9 +41,9 @@ I'm a passionate Full Stack Developer who thrives on exploring new technologies 
 
 ## 🎉 Fun Facts
 
-- Did you know there are over 700 programming languages? :contentReference[oaicite:0]{index=0}
+- Did you know there are over 700 programming languages? 
 
-- The first computer game was created in 1961. :contentReference[oaicite:1]{index=1}
+- The first computer game was created in 1961.
 
 ## 🎯 Hobbies
 
@@ -53,6 +53,3 @@ I'm a passionate Full Stack Developer who thrives on exploring new technologies 
 
 Feel free to connect with me to discuss technology, projects, or any exciting opportunities!
 
----
-
-*Note: This README is dynamically generated to keep it up-to-date with my latest activities and projects.*
